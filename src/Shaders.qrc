@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Basic.fsh</file>
+        <file>Basic.vsh</file>
+        <file>blur.txt</file>
+    </qresource>
+</RCC>
